@@ -640,7 +640,7 @@ section{
     border-radius: 50%;
     
     -webkit-filter: grayscale(100%);
-    filter: grayscale(100%) brightness(1.5) contrast(1.5);
+    filter: grayscale(100%) brightness(1) contrast(1.5);
         
 }
 
